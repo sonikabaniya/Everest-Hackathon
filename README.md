@@ -10,6 +10,7 @@
 - **Unity** *Version 2018.3.14f1 (64-bit)*
 - **Vuforia Engine 8.3**
 - Developed on **Windows 10** *Pro 64-bit Build 17134*
+- **Android SDK** *Version 29.0.1*
 
 ## Tasks
 - [X] Display the 3D object in AR
