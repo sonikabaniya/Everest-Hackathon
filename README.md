@@ -24,3 +24,6 @@
 [Samyoga Bhattarai](https://github.com/samyoga)<br />
 [Ojesh Manandhar](https://github.com/OjeshManandhar)<br />
 [Shrijan Bahadur Bajracharya](https://github.com/ShriBuzz)
+
+## License
+This project is licensed under the **Apache License Version 2.0** - see the [LICENSE](LICENSE) file for details.
